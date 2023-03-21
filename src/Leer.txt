@@ -1,0 +1,13 @@
+    Tuve inconvenientes durante el dia para terminar las consignas y no llegué a hacer todo.
+    La verdad que en un momento logré conectar a la API pero luego salta un error. 
+    Al digitar el año a especificar, logro traer los datos desde la api de ese año, 
+pero al clickear en submit algo falla y ese error me trabo.
+    Tengo en mente lo que debo hacer pero no tuve el tiempo para terminar.
+    Logré entender lo que se pedia y como funciona la mayoria de las partes.
+    Creo que con una breve capacitación y un acompañamiento, podria realizar las tareas tranquilamente.
+    De todas maneras, disfruté mucho la evaluación, leí mucha documentacion y aprendi bastante tambien.
+    Me encantaría la oportunidad de poder seguir aprendiendo de la mano de la empresa,
+me considero buen estudiante y amo capacitarme constantemente. Si buscan alguien con ganas de crecer ese soy yo.
+
+En fin, muchas gracias.
+Saludos.
